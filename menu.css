@@ -1,0 +1,15 @@
+ul{
+    background-color: coral;
+    color: rgb(19, 27, 2);
+    list-style: none;
+    overflow: hidden;
+    font-size: 120%;
+}
+li{
+    font-style: normal;
+    float: left;
+    padding: 5%;
+}
+li:hover{
+    color: aqua;
+}

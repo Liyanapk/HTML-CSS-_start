@@ -1,0 +1,20 @@
+table{
+    border:1px solid red;
+    border-collapse: collapse;
+    background-color: darkgrey;
+}
+th,td{
+    text-align: center;
+    padding: 10px;
+}
+h1{
+    background-color: rgb(160, 158, 184);
+    
+}
+th{
+    background-color: rgb(99, 90, 80);
+    color: rgb(90, 187, 95);
+}
+caption{
+    color: rgb(253, 9, 21);
+}
